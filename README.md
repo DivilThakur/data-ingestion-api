@@ -41,7 +41,8 @@ npm start
 ```
 --- 
 
-## 😁 ScreenShots
-<p align="center"> <img src="https://github.com/DivilThakur/data-ingestion-api/main/screenshots/Screenshot.png" width="700" alt="Test Output Screenshot"> </p>
-
+## 😁 Screenshot
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DivilThakur/data-ingestion-api/main/screenshots/Screenshot.png" width="700" alt="Test Output Screenshot" />
+</p>
 
